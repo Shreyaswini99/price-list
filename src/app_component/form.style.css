@@ -1,0 +1,13 @@
+form {
+    margin-top: 3rem;
+  }
+  
+  form input[name="city"],
+  form input[name="country"] {
+    background-color: transparent;
+    color:blue;
+    border: none;
+    border-bottom: 2px solid dodgerblue;
+    border-radius: 0;
+  }
+  
