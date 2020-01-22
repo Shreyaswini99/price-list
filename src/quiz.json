@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What is Capital of India?",
+    "answers": [
+      "New Delhi",
+      "Mumbai",
+      "Kolkata"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Who is the CEO of Tesla Motors?",
+    "answers": [
+      "Bill Gates",
+      "Steve Jobs",
+      "Elon Musk"
+      
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Name World's Richest Man?",
+    "answers": [
+      " Jeff Bezo",
+      "Bill Gates",
+      "Mark Zuckerberg"
+      
+    ],
+    "correct": 1
+  },
+  {
+    "question": "World's Longest River?",
+    "answers": [
+      "River Nile",
+      "River Amazon",
+      "River Godavari"
+    ],
+    "correct": 1
+  }
+]
+  
+  
