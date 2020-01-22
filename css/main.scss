@@ -1,0 +1,70 @@
+.flex-container {
+	display: flex;
+	height: 300px;
+	>div {
+		align-items: flex-end;
+		transition: 0.3s;
+		background-color: white;
+		box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+		width: 300px;
+		height: 450px;
+		margin: auto;
+		text-align: center;
+		font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+		border-radius: 30px;
+		outline: none;
+		box-sizing: border-box;
+		border: 2px solid grey;
+		&:hover {
+			-ms-transform: scale(1.2);
+			-webkit-transform: scale(1.2);
+			transform: scale(1.2);
+			box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+		}
+	}
+}
+body {
+	background-size: cover;
+	background-image: url("3.jpg");
+}
+.pp {
+	display: flex;
+	top: 80px;
+	position: relative;
+}
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+}
+li {
+	float: right;
+	a {
+		display: block;
+		color: white;
+		text-align: center;
+		padding: 14px 16px;
+		text-decoration: none;
+	}
+}
+.card {
+	button {
+		font-size: 18px;
+		text-decoration: none;
+		border: solid 1px dodgerblue;
+		padding: 10px 20px;
+		border-radius: 10px;
+		&:hover {
+			background: dodgerblue;
+			color: dodgerblue;
+			h1{color: dodgerblue;
+		}
+	}
+}
+} 
+	.kk {
+        float: left;
+        
+	}
+
